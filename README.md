@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AzariusO
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning SQL, Python, JavaScript
+- 💞️ I’m looking to collaborate on small beginner projects
+- 📫 How to reach me, send a message
+- ⚡ Fun fact: I want to study computer science at university
